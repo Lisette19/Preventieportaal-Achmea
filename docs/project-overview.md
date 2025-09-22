@@ -5,3 +5,6 @@ Het doel van de Preventieportal is het aanbieden van tips om brand, inbraak en w
 Teamleden: Ben, Lisette, Robin   
 Eerste versie opleveren: eind week 1   
 Review en demo: week 2   
+
+## Aanvullende doelstelling 
+De Preventieportal moet later ook interactieve quizzen bevatten. 
